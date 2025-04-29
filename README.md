@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  web dev<br><br>🌱 I’m currently learning web dev  and cybersecurity<br>
+<br>🌱 I’m currently learning web dev  and cybersecurity<br>
 
 
 # 💻 Tech Stack:
