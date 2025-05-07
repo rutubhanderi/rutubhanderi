@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning web dev  and cybersecurity<br>
+<br>🌱 Pre-Final CS Grad working on AI and web-dev<br>
 
 
 # 💻 Tech Stack:
