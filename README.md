@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 Pre-Final CS Grad working on AI and web-dev<br>
+<br>🌱 CS Grad working on AI and web-dev<br>
 
 
 # 💻 Tech Stack:
